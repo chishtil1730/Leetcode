@@ -1,5 +1,5 @@
 # Leetcode
- ## My solutions for leet code.
+ ## My solutions for leet code.[nofiles]
 
 ## 📊 Problem Solving Stats
 
