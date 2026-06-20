@@ -1,3 +1,3 @@
 # LeetCode
 ### Solved examples
-- 25 problems
+- 25 hard problems
